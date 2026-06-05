@@ -1,0 +1,10 @@
+{
+  "latest": "1.0.0",
+  "versions": {
+    "1.0.0": {
+      "path": "/versions/1.0.0/",
+      "released": "2026-06-05",
+      "changelog": "Initial release with multi-stack support"
+    }
+  }
+}

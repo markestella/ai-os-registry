@@ -1,0 +1,32 @@
+{
+  "nextjs": {
+    "category": "fullstack",
+    "runtime": "node",
+    "rules": "stacks/web/nextjs.md"
+  },
+  "react-vite": {
+    "category": "frontend",
+    "runtime": "node",
+    "rules": "stacks/web/react-vite.md"
+  },
+  "dotnet": {
+    "category": "backend",
+    "runtime": "dotnet",
+    "rules": "stacks/backend/dotnet.md"
+  },
+  "svelte": {
+    "category": "frontend",
+    "runtime": "node",
+    "rules": "stacks/web/svelte.md"
+  },
+  "ionic-capacitor": {
+    "category": "mobile",
+    "runtime": "node",
+    "rules": "stacks/mobile/ionic-capacitor.md"
+  },
+  "electron": {
+    "category": "desktop",
+    "runtime": "node",
+    "rules": "stacks/desktop/electron.md"
+  }
+}
